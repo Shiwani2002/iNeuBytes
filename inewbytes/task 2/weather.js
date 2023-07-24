@@ -1,4 +1,4 @@
-key = "ef81f8f19fb57de2a75aaf5c25730b8b";
+key=""
 let result = document.getElementById("result");
 let searchBtn = document.getElementById("search-btn");
 let cityRef = document.getElementById("city");
